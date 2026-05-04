@@ -170,11 +170,8 @@ jupyter lab
 ---
 
 ## 📚 Data Sources
-
-- Nepal Weather Dataset
-- Agriculture & Forestry Datasets
-- Department of Hydrology and Meteorology Nepal
-- FAOSTAT Nepal Data
+- FAOSTAT Nepal Data(https://www.fao.org/faostat/en/#home)
+- Visual Crossing Weather API(https://www.visualcrossing.com/weather-api/)
 
 ---
 
